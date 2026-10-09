@@ -1,0 +1,6 @@
+{
+  "name": "Trợ lý Kế hoạch bài dạy",
+  "description": "Ứng dụng hỗ trợ giáo viên tiểu học chuẩn hóa kế hoạch bài dạy, cập nhật Yêu cầu cần đạt tích hợp năng lực số & AI, tự động tính lịch dạy theo thời khóa biểu và xuất Word DOCX / PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
